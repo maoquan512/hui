@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>title</key>
-                <string>啦啦啦😋</string>
+                <string>微信</string>
                 <key>bundle-version</key>
-                <string>6.2.3</string>
+                <string>6.6.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
